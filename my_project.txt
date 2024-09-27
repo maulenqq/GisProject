@@ -1,5 +1,6 @@
 Hello, GisProject!
 Hello Maulen
+Hello Zhaxylykov
 This is my code.
 string s = "";
 s = "just test string";
